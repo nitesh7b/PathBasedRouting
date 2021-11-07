@@ -1,0 +1,13 @@
+VPC created on Wed 03 Nov 2021 03:36:56 AEDT and VPC ID: vpc-00d778d10554f2bef
+VPC created on Thu 04 Nov 2021 02:14:09 AEDT and VPC ID: vpc-0c3cbf2150ced54aa
+VPC created on Fri 05 Nov 2021 03:57:10 AEDT and VPC ID: vpc-00377a2e0ffd88692
+VPC created on Sun 07 Nov 2021 11:55:19 AEDT and VPC ID: vpc-055cad764f433ed2a
+VPC created on Sun 07 Nov 2021 12:33:18 AEDT and VPC ID: vpc-03a61778043b8ff05
+VPC created on Sun 07 Nov 2021 12:56:38 AEDT and VPC ID: vpc-063dcfd090b604a50
+VPC created on Sun 07 Nov 2021 18:18:33 AEDT and VPC ID: vpc-0e63e18d1c99f0637
+VPC created on Sun 07 Nov 2021 18:30:40 AEDT and VPC ID: vpc-0d3fb6666ccd1e51e
+VPC created on Sun 07 Nov 2021 18:44:15 AEDT and VPC ID: vpc-0966b390097b91e41
+VPC created on Sun 07 Nov 2021 19:17:45 AEDT and VPC ID: vpc-03085bdafc6ff90d7
+VPC created on Sun 07 Nov 2021 21:08:08 AEDT and VPC ID: vpc-01a7dd594d7a33736
+VPC created on Sun 07 Nov 2021 21:57:31 AEDT and VPC ID: vpc-05547aeaca1391b38
+VPC created on Sun 07 Nov 2021 22:45:25 AEDT and VPC ID: vpc-05a4966b1f645e36b
